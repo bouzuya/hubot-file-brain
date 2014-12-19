@@ -1,7 +1,7 @@
 {
   "name": "hubot-file-brain",
   "description": "A Hubot script to persist hubot's brain using text-file",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "bouzuya <m@bouzuya.net>",
   "license": "MIT",
 
